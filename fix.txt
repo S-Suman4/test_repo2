@@ -6,3 +6,4 @@ Fixed 2nd bug
 fixed 3rd bug
 
 4th bug
+after applying stash
