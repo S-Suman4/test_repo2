@@ -1,1 +1,3 @@
 To fix the bug
+
+Fixed  1st bug
