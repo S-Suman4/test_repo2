@@ -7,7 +7,16 @@ Adding more content to file 1
 new addition
 
 same feature
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
 same feature diff code
+another stash
+>>>>>>> Stashed changes
+=======
+
+feature 2
+>>>>>>> Stashed changes
+=======
 another stash
 >>>>>>> Stashed changes
