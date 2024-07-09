@@ -2,7 +2,12 @@
 this is my file 1
 Adding more content to file 1
 
+<<<<<<< Updated upstream
 
 new addition
 
 same feature
+=======
+same feature diff code
+another stash
+>>>>>>> Stashed changes
