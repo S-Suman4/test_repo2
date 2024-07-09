@@ -13,3 +13,5 @@ after applying stash
 5th bug
 
 another fix for newbranch
+
+6th bug
